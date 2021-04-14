@@ -157,7 +157,7 @@
             <dependency>
                 <groupId>org.litote.kmongo</groupId>
                 <artifactId>kmongo-flapdoodle</artifactId>
-                <version>4.0.0</version>
+                <version>4.2.6</version>
                 <scope>test</scope>
                 <exclusions>
                     <exclusion>
